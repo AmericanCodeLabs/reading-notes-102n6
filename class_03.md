@@ -29,6 +29,5 @@ git push
 ```sh
 git pull
 ```
+
 > Chỉ được push lên trên các github có quyền push
-
-
