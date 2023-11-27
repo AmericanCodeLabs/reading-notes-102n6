@@ -23,3 +23,9 @@ git commit -m "$message"
 ```sh
 git push
 ```
+
+- Pull: dùng để kéo/áp dụng các thay đổi trên github về máy tính local
+
+```sh
+git pull
+```
