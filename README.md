@@ -6,6 +6,14 @@ tags: []
 
 # Course 102n6: INTRO TO SOFTWARE DEVELOPMENT
 
+## Github
+
+[https://github.com/AmericanCodeLabs/reading-notes-102n6](https://github.com/AmericanCodeLabs/reading-notes-102n6)
+
+## Zoom
+
+[Zoom link](https://zoom.us/j/94927407345?pwd=TnZvWnErS0pwUjVYSkx0VVFucG5udz09)
+
 ## Classes
 
 - [Class 01](class01/README.md)
