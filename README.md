@@ -1,23 +1,14 @@
-# reading-notes-102n6
+---
+noteId: "eac69f908dfa11ee9b815573e7860f48"
+tags: []
 
-## Headings
-### Heading 3
-...
-###### Heading 6
+---
 
-## Styling
-**bold**   __bold__
-*italic*   _italic_
-~~Strikethrough~~
+# Course 102n6: INTRO TO SOFTWARE DEVELOPMENT
 
+## Classes
 
-## Link
-[Dương Xuân Hưng Github Profile](https://github.com/Jackbinson)
-
-
-## Lists
-
-### Unorder lists
-102n6
-- Khôi
-+ Hưng
+- [Class 01](class01/README.md)
+- [Class 02](class02/class_02.md)
+- [Class 03](class03/class_03.md)
+- [Class 04](class04/class04.md)
