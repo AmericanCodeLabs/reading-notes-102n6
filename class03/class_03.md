@@ -1,3 +1,9 @@
+---
+noteId: "f0b99e908df311ee9b815573e7860f48"
+tags: []
+
+---
+
 # Class 03: Git - Github - Gitflow
 
 ## Git

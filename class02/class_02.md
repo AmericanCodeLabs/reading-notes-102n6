@@ -1,3 +1,9 @@
+---
+noteId: "ecee8cd08df311ee9b815573e7860f48"
+tags: []
+
+---
+
 # Class 02
 
 ## Linux 
