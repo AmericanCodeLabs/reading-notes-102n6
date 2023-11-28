@@ -31,3 +31,9 @@ git pull
 ```
 
 > Chỉ được push lên trên các github có quyền push
+
+- Status: dùng để kiểm tra những thay đổi trên máy tính local
+
+```sh
+git status
+```
