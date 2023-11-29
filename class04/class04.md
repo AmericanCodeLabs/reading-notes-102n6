@@ -1,7 +1,6 @@
 ---
-noteId: "6e1de1608df511ee9b815573e7860f48"
+noteId: '6e1de1608df511ee9b815573e7860f48'
 tags: []
-
 ---
 
 # Class 04: HTML basics
@@ -25,18 +24,37 @@ tags: []
 - Headings
 
 ```html
-<h1> Tiêu đề 1 </h1>
-<h2> Tiêu đề 2<h2>
-<h3> Tiêu đề 3<h3>
-<h4> Tiêu đề 4<h4>
-<h5> Tiêu đề 5<h5>
-<h6> Tiêu đề 6<h6>
+<h1>Tiêu đề 1</h1>
+<h2>
+  Tiêu đề 2
+  <h2>
+    <h3>
+      Tiêu đề 3
+      <h3>
+        <h4>
+          Tiêu đề 4
+          <h4>
+            <h5>
+              Tiêu đề 5
+              <h5>
+                <h6>
+                  Tiêu đề 6
+                  <h6></h6>
+                </h6>
+              </h5>
+            </h5>
+          </h4>
+        </h4>
+      </h3>
+    </h3>
+  </h2>
+</h2>
 ```
 
 - Paragraphs
 
 ```html
-<p> Đoạn văn 1: Tôi là Khôi, tôi đang hướng dẫn Hưng học HTML</p>
+<p>Đoạn văn 1: Tôi là Khôi, tôi đang hướng dẫn Hưng học HTML</p>
 ```
 
 - Bold
@@ -54,7 +72,7 @@ tags: []
 - Break (self-closed tag)
 
 ```html
-<br>
+<br />
 ```
 
 - Unordered list -> List item
@@ -77,4 +95,20 @@ tags: []
 </ol>
 ```
 
+- Link
+
+```html
+<a href="https://google.com">Google.com</a>
+```
+
+- Image
+
+```html
+<img src="https://asianwiki.com/images/2/25/Kim_Da-Mi-P1.jpg" alt="Kim dami" />
+```
+
 ## Nested - Xếp chồng
+
+## HTML attribute
+
+- HTML Attribute là một phần của phần HTML, nằm ở thẻ mở, nhiệm vụ là khai báo thêm thông tin của thẻ đó
