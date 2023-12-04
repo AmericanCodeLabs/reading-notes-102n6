@@ -32,11 +32,16 @@
 // const className = '102n6';
 // console.log(className);
 
-let userFullname = prompt("What is your name");
+
+// console.log(prompt("What is your name"));
+let hungAge = prompt("What is Hưng's name");
+
+console.log(hungAge, khoiAge);
+// console.log(Nội dung người dùng ghi)
+// let userFullname = prompt("What is your name");
 
 
 // đề bài nhập tên người dùng và chào tên người đó
 
-console.log("Xin chào: " + userFullname);
 
 
