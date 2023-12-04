@@ -22,3 +22,4 @@ tags: []
 - [Class 04](class04/class04.md)
 - [Class 05](class05/class05.md)
 - [Class 06](class06/class06.md)
+- [Class 07](class07/class07.md)
