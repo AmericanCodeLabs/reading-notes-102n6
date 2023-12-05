@@ -26,3 +26,16 @@
   b. subtract dùng để tính: (a - b)
   c. multiply dùng để tính: (b * b), (a * a), (a - b) * (a * a), (a - b) * (a * a) * (b * b)
   d. divide dùng để tính: ((a - b) * (a * a) * (b * b) ) / (a + b))
+
+
+## Bài tập
+
+1. Làm một công thức tính chỉ số BMI
+  - cho người dùng nhập: tuổi, chiều cao, cân nặng
+    -> chỉ số BMI và trạng thái của người đó: normal, under, over ,...
+
+
+2. Làm một công cụ chuyển đổi giữa độ C là độ F
+  - cho phép người dùng chọn sẽ chuyển từ độ C -> F hay là F -> C
+  - sau đó cho người dùng nhập giá trị
+  - sau đó tính toán giá trị kết quả và trả về cho người dùng
