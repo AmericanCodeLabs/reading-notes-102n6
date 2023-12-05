@@ -51,20 +51,25 @@ function tinhToan(soThu1, soThu2) {
   // (a + b) : cong(soThu1, soThu2)
   // (a - b) * (a * a) * (b * b) : nhan3So( tru(soThu1, soThu2) ,nhan2So(soThu1, soThu1),nhan2So(soThu2, soThu2) )
 
-
+  // soThu1 = 1 ; soThu2 = 2 ; 
+  //  ( (1 - 2) * (1 * 1) * (2 * 2) ) / (1 + 2 )
+  //  -4 / 3 = -1.333333
   const ketqua = chia(
 
     nhan3So(
-      tru(soThu1, soThu2), 
-      nhan2So(soThu1, soThu1), 
+      tru(soThu1, soThu2),
+      nhan2So(soThu1, soThu1),
       nhan2So(soThu2, soThu2)
-      ), 
-      
-    cong(soThu1, soThu2)
+    ),
+
+    tong(soThu1, soThu2)
   )
 
   return ketqua;
 }
+
+const ketqua = tinhToan(soA, soB)
+console.log(ketqua);
 
 
 //   a. sum dùng để tính: (a + b)
