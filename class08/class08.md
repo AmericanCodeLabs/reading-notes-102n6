@@ -39,3 +39,38 @@
   - cho phép người dùng chọn sẽ chuyển từ độ C -> F hay là F -> C
   - sau đó cho người dùng nhập giá trị
   - sau đó tính toán giá trị kết quả và trả về cho người dùng
+
+
+
+## Expression - Biểu thức
+
+- là một biểu thức toán học.
+  - Biến
+  - Số 
+  - Toán tử (operator)
+    - toán tử gán: const a = 1
+    - toán tử số học: +, -, *, /,  
+    - Toán tử so sánh: >, <,  >=, <=, ==
+
+
+a > b : true / false (boolean)
+a == b : true / false
+
+
+## Câu lệnh rẽ nhánh/ điều kiện if / else
+
+```js
+if(condition){
+  // logic code của if
+}
+
+```
+
+```js
+const gender = 'Nam';
+
+// toán tử so sánh == 
+
+const isMale = gender == 'Nam';
+
+```
